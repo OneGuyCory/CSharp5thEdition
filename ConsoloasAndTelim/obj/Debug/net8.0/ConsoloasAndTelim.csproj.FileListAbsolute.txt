@@ -1,0 +1,14 @@
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\bin\Debug\net8.0\ConsoloasAndTelim.exe
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\bin\Debug\net8.0\ConsoloasAndTelim.deps.json
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\bin\Debug\net8.0\ConsoloasAndTelim.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\bin\Debug\net8.0\ConsoloasAndTelim.dll
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\bin\Debug\net8.0\ConsoloasAndTelim.pdb
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.dll
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\refint\ConsoloasAndTelim.dll
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.pdb
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ConsoloasAndTelim.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\ConsoloasAndTelim\obj\Debug\net8.0\ref\ConsoloasAndTelim.dll

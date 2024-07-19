@@ -1,0 +1,14 @@
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.exe
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.deps.json
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\refint\FourSistersAndTheDuckbear.dll
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\FourSistersAndTheDuckbear\obj\Debug\net8.0\ref\FourSistersAndTheDuckbear.dll
