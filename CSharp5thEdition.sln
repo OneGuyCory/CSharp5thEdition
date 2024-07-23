@@ -7,13 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp5thEdition", "CSharp5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoloasAndTelim", "ConsoloasAndTelim\ConsoloasAndTelim.csproj", "{D9186856-3219-4D80-B0B3-7DF5A5B3FCFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThingNamer3000", "ThingNamer3000\ThingNamer3000.csproj", "{45D6C78B-4D13-436F-BD31-2FAAF8F508B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThingNamer3000", "ThingNamer3000\ThingNamer3000.csproj", "{45D6C78B-4D13-436F-BD31-2FAAF8F508B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleFarmer", "TriangleFarmer\TriangleFarmer.csproj", "{73EBA27E-84EF-4355-BCE7-0F4A9FABAC22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleFarmer", "TriangleFarmer\TriangleFarmer.csproj", "{73EBA27E-84EF-4355-BCE7-0F4A9FABAC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSistersAndTheDuckbear", "FourSistersAndTheDuckbear\FourSistersAndTheDuckbear.csproj", "{7164E325-3980-4CB9-850A-762B33D4392B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourSistersAndTheDuckbear", "FourSistersAndTheDuckbear\FourSistersAndTheDuckbear.csproj", "{7164E325-3980-4CB9-850A-762B33D4392B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionOfKings", "DominionOfKings\DominionOfKings.csproj", "{4795ACE4-4CF0-4442-9411-DD86B414A06C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominionOfKings", "DominionOfKings\DominionOfKings.csproj", "{4795ACE4-4CF0-4442-9411-DD86B414A06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefenseOfConsolas", "DefenseOfConsolas\DefenseOfConsolas.csproj", "{0D55F552-54D6-412C-A161-CC19C869DA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairingTheClocktower", "RepairingTheClocktower\RepairingTheClocktower.csproj", "{00CFBCE6-0E3A-4EF7-8B8E-098212415FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watchtower", "Watchtower\Watchtower.csproj", "{02AF2FA3-6318-4E81-A426-154CF4883DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyingInventory", "BuyingInventory\BuyingInventory.csproj", "{7D6964E5-6066-4D9A-9CEB-11FF1C2FF123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{4795ACE4-4CF0-4442-9411-DD86B414A06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4795ACE4-4CF0-4442-9411-DD86B414A06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4795ACE4-4CF0-4442-9411-DD86B414A06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D55F552-54D6-412C-A161-CC19C869DA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D55F552-54D6-412C-A161-CC19C869DA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D55F552-54D6-412C-A161-CC19C869DA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D55F552-54D6-412C-A161-CC19C869DA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CFBCE6-0E3A-4EF7-8B8E-098212415FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CFBCE6-0E3A-4EF7-8B8E-098212415FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CFBCE6-0E3A-4EF7-8B8E-098212415FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CFBCE6-0E3A-4EF7-8B8E-098212415FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AF2FA3-6318-4E81-A426-154CF4883DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AF2FA3-6318-4E81-A426-154CF4883DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AF2FA3-6318-4E81-A426-154CF4883DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AF2FA3-6318-4E81-A426-154CF4883DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6964E5-6066-4D9A-9CEB-11FF1C2FF123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6964E5-6066-4D9A-9CEB-11FF1C2FF123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6964E5-6066-4D9A-9CEB-11FF1C2FF123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6964E5-6066-4D9A-9CEB-11FF1C2FF123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\DominionOfKings\bin\Debug\net8.0\DominionOfKings.exe
+C:\Coding2024\CSharp5thEdition\DominionOfKings\bin\Debug\net8.0\DominionOfKings.deps.json
+C:\Coding2024\CSharp5thEdition\DominionOfKings\bin\Debug\net8.0\DominionOfKings.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\DominionOfKings\bin\Debug\net8.0\DominionOfKings.dll
+C:\Coding2024\CSharp5thEdition\DominionOfKings\bin\Debug\net8.0\DominionOfKings.pdb
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.sourcelink.json
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.dll
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\refint\DominionOfKings.dll
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.pdb
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\DominionOfKings.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\DominionOfKings\obj\Debug\net8.0\ref\DominionOfKings.dll
