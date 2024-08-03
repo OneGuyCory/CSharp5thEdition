@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+C:\Coding2024\CSharp5thEdition\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+C:\Coding2024\CSharp5thEdition\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+C:\Coding2024\CSharp5thEdition\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.sourcelink.json
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll
