@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakingANumber", "TakingANum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown\Countdown.csproj", "{9D91B7A6-8512-452F-B044-397DCE1F34FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingTheManticore", "HuntingTheManticore\HuntingTheManticore.csproj", "{97A9DF42-D282-4476-8EDD-7AFC46EAC81E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{9D91B7A6-8512-452F-B044-397DCE1F34FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D91B7A6-8512-452F-B044-397DCE1F34FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D91B7A6-8512-452F-B044-397DCE1F34FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A9DF42-D282-4476-8EDD-7AFC46EAC81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A9DF42-D282-4476-8EDD-7AFC46EAC81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A9DF42-D282-4476-8EDD-7AFC46EAC81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A9DF42-D282-4476-8EDD-7AFC46EAC81E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
