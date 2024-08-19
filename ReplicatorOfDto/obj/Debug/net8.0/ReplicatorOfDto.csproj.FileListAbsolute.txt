@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.exe
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.deps.json
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.dll
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.pdb
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.sourcelink.json
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.dll
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\refint\ReplicatorOfDto.dll
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.pdb
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\ReplicatorOfDto\obj\Debug\net8.0\ref\ReplicatorOfDto.dll

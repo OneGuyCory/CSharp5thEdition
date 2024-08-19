@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\bin\Debug\net8.0\LowsOfFreach.exe
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\bin\Debug\net8.0\LowsOfFreach.deps.json
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\bin\Debug\net8.0\LowsOfFreach.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\bin\Debug\net8.0\LowsOfFreach.dll
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\bin\Debug\net8.0\LowsOfFreach.pdb
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.sourcelink.json
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.dll
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\refint\LowsOfFreach.dll
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.pdb
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\LowsOfFreach.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\LowsOfFreach\obj\Debug\net8.0\ref\LowsOfFreach.dll
