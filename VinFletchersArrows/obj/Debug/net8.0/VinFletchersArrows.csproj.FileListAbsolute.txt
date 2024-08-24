@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.exe
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.deps.json
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.dll
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.pdb
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.sourcelink.json
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.dll
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\refint\VinFletchersArrows.dll
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.pdb
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\VinFletchersArrows\obj\Debug\net8.0\ref\VinFletchersArrows.dll

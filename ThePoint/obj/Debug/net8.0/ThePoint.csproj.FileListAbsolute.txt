@@ -1,0 +1,15 @@
+C:\Coding2024\CSharp5thEdition\ThePoint\bin\Debug\net8.0\ThePoint.exe
+C:\Coding2024\CSharp5thEdition\ThePoint\bin\Debug\net8.0\ThePoint.deps.json
+C:\Coding2024\CSharp5thEdition\ThePoint\bin\Debug\net8.0\ThePoint.runtimeconfig.json
+C:\Coding2024\CSharp5thEdition\ThePoint\bin\Debug\net8.0\ThePoint.dll
+C:\Coding2024\CSharp5thEdition\ThePoint\bin\Debug\net8.0\ThePoint.pdb
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfoInputs.cache
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfo.cs
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.sourcelink.json
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.dll
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\refint\ThePoint.dll
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.pdb
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ThePoint.genruntimeconfig.cache
+C:\Coding2024\CSharp5thEdition\ThePoint\obj\Debug\net8.0\ref\ThePoint.dll

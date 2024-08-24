@@ -36,7 +36,7 @@ bool won = cityHealth > 0;
 DisplayWinner(won);
 
 
-
+//gets manticore distance within a range
 int AskForNumberInRange(string text, int min, int max)
 {
     do
@@ -48,6 +48,7 @@ int AskForNumberInRange(string text, int min, int max)
     return manticoreDistance;
 }
 
+//determines damage done based on round number
 int RoundDamage(int round)
 {
     if (round % 15 == 0) return 10;
@@ -56,6 +57,7 @@ int RoundDamage(int round)
     else return 1;
 }
 
+//shows status
 void CurrentStatus()
 {
     Console.ForegroundColor = ConsoleColor.Green;
@@ -65,6 +67,7 @@ void CurrentStatus()
     Console.WriteLine($"The cannon is expected to deal {RoundDamage(round)} damage this round.");
 }
 
+//determines if shot was a miss or hit based on manticore distance and cannon range
 void ShotStatus(int cannonRange, int manticoreDistance)
 {
     if (cannonRange > manticoreDistance)
